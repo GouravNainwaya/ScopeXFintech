@@ -8,7 +8,6 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 const App = () => {
 
-
   return (
     <SafeAreaView style={styles.container}>
     {/* <Provider store={store}> */}
