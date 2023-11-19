@@ -1,20 +1,30 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View , Alert} from 'react-native'
+import React, { useState, useEffect } from 'react';
 
-export default function App() {
+import 'expo-dev-client'
+import Toast from 'react-native-toast-message';
+import Navigation from './src/navigation/Navigation';
+import { SafeAreaView } from 'react-native-safe-area-context';
+
+const App = () => {
+
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
+    <SafeAreaView style={styles.container}>
+    {/* <Provider store={store}> */}
+      <Navigation/>
+      <Toast />
+    {/* </Provider> */}
+    </SafeAreaView>
+  )
 }
+
+export default App
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    // justifyContent: 'center',
+    // alignItems: 'center',
   },
 });

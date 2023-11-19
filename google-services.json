@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "892019028563",
+    "project_id": "scopex-fintech-18997",
+    "storage_bucket": "scopex-fintech-18997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892019028563:android:a6e820277e9d5c9e2ecca6",
+        "android_client_info": {
+          "package_name": "com.scopexFintech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892019028563-mklsuv23g0pdog1n4e8n5bcguuhssfuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scopexFintech",
+            "certificate_hash": "c7e35d38250ed7e3bf925818581379770dbfcce8"
+          }
+        },
+        {
+          "client_id": "892019028563-mm1uobseocl2sj2mips8kj2e0br4pvia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scopexFintech",
+            "certificate_hash": "3779c97d6201b4152d3b0cd39cb1a89f39125d05"
+          }
+        },
+        {
+          "client_id": "892019028563-3k3dmhhvhsfcch607fns6quh9lp5snip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoJZ6f4CpUiHsEc5MmLBM7IIvMtOWSQT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892019028563-3k3dmhhvhsfcch607fns6quh9lp5snip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

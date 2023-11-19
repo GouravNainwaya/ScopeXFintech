@@ -1,0 +1,6 @@
+// export const API_KEY="AIzaSyAUEhrmZ9GJ1-8yafXrg2RJyuUPL-khuuo"
+// export const AUTH_DOMAIN="scopex-fintech-18997.firebaseapp.com"
+// export const PROJECT_ID="scopex-fintech-18997"
+// export const STORAGE_BUCKET="scopex-fintech-18997.appspot.com"
+// export const MESSAGING_SENDER_ID="892019028563"
+// export const APP_ID="1:892019028563:web:b0de634a51b76c052ecca6"
